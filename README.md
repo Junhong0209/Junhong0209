@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=DGSW%201110%20👋&fontSize=90)  
+## 대구 소프트웨어 고등학교에 재학 중인 1학년, 웹 풀스텍이 되기위해 공부하고 있습니다.
 <!--
 **Junhong0209/Junhong0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,12 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-- Living in Daegu, South Korea
-- Going to graduate from [Daegu Software High School](https://ko.wikipedia.org/wiki/%EB%8C%80%EA%B5%AC%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90) at Feb 5, 2021.
+- Living in Gyeongju, South Korea
+- Going to graduate from [Daegu Software High School](https://ko.wikipedia.org/wiki/%EB%8C%80%EA%B5%AC%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90) at Feb 6, 2023.
 
 ![Junhong0209's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junhong0209&show_icons=true&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junhong0209&layout=compact)
-- And I can also do
-  - **Python**
-  - React JS
-  - HTML/CSS
+
+## 🌱 I'm Currently learning
+### - "React.Js"
+### - "Node.Js"
+
+## 🔭 I learned ..
+### - Html
+### - Css
+### - C
+### - python (a little)
+### - Vanilla JavaScipt (a little)
+
+## ⚡ I want to learn about ..
+### - Node.Js
+### - My SQL (Data Base)
+
+![footer](https://capsule-render.vercel.app/api?section=footer)
