@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=DGSW%201110%20👋&fontSize=90)  
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=DGSW%201110%20 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> &fontSize=90)  
 ## 대구 소프트웨어 고등학교에 재학 중인 1학년, 웹 풀스텍이 되기위해 공부하고 있습니다.
 
 ![Discord](https://img.shields.io/badge/빨강고양이%235278-Discord?logo=discord&style=flat-square&color=7289DA&logoColor=white)
