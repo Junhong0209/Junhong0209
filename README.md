@@ -33,7 +33,7 @@
 ### - My SQL (Data Base)
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=50&section=footer)
-![footer](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=50&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&section=footer)
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 
 <!--
