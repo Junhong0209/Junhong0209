@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=DGSW%201110%20👋&fontSize=90)
-## 대구 소프트웨어 고등학교에 재학 중인 1학년, 웹 풀스텍이 되기위해 공부하고 있습니다.
+<div align=center>
+  <h1>
+    I want to be WEB dev.
+  </h1>
 
 ![Discord](https://img.shields.io/badge/빨강고양이%235278-Discord?logo=discord&style=flat-square&color=7289DA&logoColor=white)
 [![Gmail Badge](https://img.shields.io/badge/junh040209@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junh040209@gmail.com)](mailto:junh040209@gmail.com)
