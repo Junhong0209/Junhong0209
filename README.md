@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=300&section=header&text=DGSW%201110%20👋&fontSize=90&fontColor=FFFFFF&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=300&section=header&text=DGSW%201110%20👋&<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">&fontSize=90&fontColor=FFFFFF&animation=fadeIn)
 <div align=center>
   <h1>
     I want to be WEB developer.
