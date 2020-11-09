@@ -20,13 +20,13 @@
 ## 🌱 I'm Currently learning
 ### - "React.Js"
 ### - "Node.Js"
+### - "Vanilla JavaScript
 
 ## 🔭 I learned ..
 ### - HTML
 ### - Css
 ### - C
 ### - python (a little)
-### - Vanilla JavaScipt (a little)
 
 ## ⚡ I want to learn about ..
 ### - Node.Js
