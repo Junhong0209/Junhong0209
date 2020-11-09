@@ -21,7 +21,7 @@
 ## 🌱 I'm Currently learning
 ### - "React.Js"
 ### - "Node.Js"
-### - "Vanilla JavaScript
+### - "Vanilla JavaScript"
 
 ## 🔭 I learned ..
 ### - HTML
