@@ -33,6 +33,7 @@
 ### - My SQL (Data Base)
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=50&section=footer)
 
 <!--
 **Junhong0209/Junhong0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
