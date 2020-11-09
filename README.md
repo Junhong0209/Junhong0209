@@ -6,6 +6,7 @@
 
 ![Discord](https://img.shields.io/badge/빨강고양이%235278-Discord?logo=discord&style=flat-square&color=7289DA&logoColor=white)
 [![Gmail Badge](https://img.shields.io/badge/junh040209@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junh040209@gmail.com)](mailto:junh040209@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/junh040209@naver.com-d14836?style=flat-square&logo=Naver&logoColor=white&link=mailto:junh040209@naver.com)](mailto:junh040209@naver.com)
   </div>
   
 ![line](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10)
