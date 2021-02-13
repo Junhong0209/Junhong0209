@@ -27,7 +27,7 @@
 ### - HTML
 ### - Css
 ### - C
-### - python (a little)
+### - python (a little Discord.py)
 
 ## ⚡ I want to learn about ..
 ### - Node.Js
