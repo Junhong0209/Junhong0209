@@ -21,7 +21,7 @@
 
 ## 🌱 I'm Currently learning
 ### - "React.Js"
-### - "Python (Discord.py)"
+### - "Python"
 ### - "Vanilla JavaScript"
 
 ## 🔭 I learned ..
