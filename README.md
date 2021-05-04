@@ -6,7 +6,7 @@
 
 ![Discord](https://img.shields.io/badge/빨강고양이%235278-Discord?logo=discord&style=flat-square&color=7289DA&logoColor=white)
 [![Gmail Badge](https://img.shields.io/badge/junh040209@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junh040209@gmail.com)](mailto:junh040209@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/박준홍-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/Junhong04/)](https://www.facebook.com/Junhong04/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/Junhong04/)](https://www.facebook.com/Junhong04/)
 [![instagram ](https://img.shields.io/badge/Instagram-e95950?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/junhong936?)](https://www.instagram.com/junhong936/)
   </div>
   
