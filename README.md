@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=300&section=header&text=DGSW%201110%20👋&fontSize=90&fontColor=FFFFFF&animation=fadeIn)
+
 <div align=center>
+  ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=300&section=header&text=DGSW%201110%20👋&fontSize=90&fontColor=FFFFFF&animation=fadeIn)
   <h1>
     I want to be WEB developer.
   </h1>
@@ -8,9 +9,10 @@
 [![Gmail Badge](https://img.shields.io/badge/junh040209@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junh040209@gmail.com)](mailto:junh040209@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/Junhong04/)](https://www.facebook.com/Junhong04/)
 [![instagram ](https://img.shields.io/badge/Instagram-e95950?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/junhong936?)](https://www.instagram.com/junhong936/)
-  </div>
   
 ![line](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10)
+</div>
+
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there
 - Living in Gyeongju, South Korea
 - I am currently attending [Daegu Software High School](https://ko.wikipedia.org/wiki/%EB%8C%80%EA%B5%AC%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90).
