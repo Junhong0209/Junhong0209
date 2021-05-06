@@ -1,7 +1,7 @@
 
 <div align=center>
   
-  ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=300&section=header&text=DGSW%201110%20👋&fontSize=90&fontColor=FFFFFF&animation=fadeIn)
+  ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=300&section=header&text=I%20want%20to%20be%20a%20developer%20👋&fontSize=90&fontColor=FFFFFF&animation=fadeIn)
   <h1>
     I want to be WEB developer.
   </h1>
