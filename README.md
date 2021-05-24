@@ -12,6 +12,7 @@
 [![instagram ](https://img.shields.io/badge/Instagram-e95950?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/junhong936?)](https://www.instagram.com/junhong936/)
   
 ![line](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10)
+</div>
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there
 - Living in Gyeongju, South Korea
@@ -21,6 +22,7 @@
 ![Junhong0209's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junhong0209&show_icons=true&count_private=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junhong0209&theme=dark&layout=compact)
 
+<div align=center>
 ## 🌱 I'm Currently learning
 ### - "React.Js"
 ### - "Python"
