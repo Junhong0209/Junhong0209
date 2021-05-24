@@ -12,7 +12,6 @@
 [![instagram ](https://img.shields.io/badge/Instagram-e95950?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/junhong936?)](https://www.instagram.com/junhong936/)
   
 ![line](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10)
-</div>
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there
 - Living in Gyeongju, South Korea
@@ -37,7 +36,9 @@
 ### - My SQL (Data Base)
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=50&section=footer)
+</div>
 
+  
 <!--
 **Junhong0209/Junhong0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
