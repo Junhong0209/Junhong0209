@@ -1,5 +1,7 @@
 <div align=center>
+  
   ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hi,%20I'm%20Junhong0209%20👋&fontSize=65&animation=twinkling)
+  
   <h1>
     I want to be Front-end developer.
   </h1>
