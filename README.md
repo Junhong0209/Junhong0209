@@ -14,13 +14,13 @@
 ![line](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10)
 </div>
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there
 - Living in Gyeongju, South Korea
 - I am currently attending [Daegu Software High School](https://ko.wikipedia.org/wiki/%EB%8C%80%EA%B5%AC%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90).
 
 <div align=center>
   
-## 🌱 I'm Currently learning
+### 🌱 I'm Currently learning
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a> 
@@ -30,7 +30,7 @@
 
 <br/><br/>
 
-## 🔭 I learned ..
+### 🔭 I learned ..
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
