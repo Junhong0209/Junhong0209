@@ -50,7 +50,7 @@ I am currently attending [Daegu Software High School](https://ko.wikipedia.org/w
 
 ![Junhong0209's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junhong0209&show_icons=true&count_private=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junhong0209&theme=dark&layout=compact)
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krung2&theme=dark" alt="Junhong0209" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Junhong0209&theme=dark" alt="Junhong0209" />
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=50&section=footer)
 
