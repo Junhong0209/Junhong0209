@@ -16,9 +16,7 @@
 - Living in Gyeongju, South Korea
 - I am currently attending [Daegu Software High School](https://ko.wikipedia.org/wiki/%EB%8C%80%EA%B5%AC%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90).
 
-<div style="center">
-  ## 🌱 I'm Currently learning
-</div>
+## 🌱 I'm Currently learning
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a> 
