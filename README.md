@@ -47,12 +47,12 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ******
 <p align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Junhong0209&show_icons=true&count_private=true&theme=dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Junhong0209&show_icons=true&count_private=true&theme=dark" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junhong0209&theme=dark&layout=compact" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Junhong0209&theme=dark" />
 </p>  
 
 <p align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junhong0209&theme=dark&layout=compact" />
+    
 </p> 
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=50&section=footer)
