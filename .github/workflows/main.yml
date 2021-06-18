@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: Junhong0209/Junhong0209@master
+      - uses: Junhong0209/Junhong0209@main
         id: snake-gif
         with:
           github_user_name: Junhong0209
