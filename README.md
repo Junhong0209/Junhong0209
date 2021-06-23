@@ -2,9 +2,9 @@
   
 ![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=200&section=header&text=I%20want%20to%20be%20a%20Front-end%20developer.%20👋&fontSize=44&animation=twinkling)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/Junhong0209/Junhong0209/output/github-user-contribution.svg)
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+_generated with [Platane/snk](https://github.com/Platane/snk)_ -->
 
 ![line](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10)
 
