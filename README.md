@@ -53,3 +53,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_ -->
 </p>  
 
 <p align="left">
+
+![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=50&section=footer)
+               
+</div>
