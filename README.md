@@ -1,8 +1,7 @@
 <div align=center>
   
 ![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=200&section=header&text=I%20want%20to%20be%20a%20Front-end%20developer.%20👋&fontSize=44&animation=twinkling)
-<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/Junhong0209/Junhong0209/output/github-user-contribution.svg)
-_generated with [Platane/snk](https://github.com/Platane/snk)_ -->
+  
 ![line](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10)
   
 </div>
@@ -15,6 +14,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_ -->
 <br/>
 
 ## 💬 Connect With Me:  
+
 [![Discord](https://img.shields.io/badge/빨강고양이%235278-Discord?logo=discord&style=flat-square&color=7289DA&logoColor=white)](https://discordapp.com/users//)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junh040209@gmail.com)](mailto:junh040209@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/Junhong04/)](https://www.facebook.com/Junhong04/)
@@ -48,7 +48,6 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_ -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Junhong0209&show_icons=true&count_private=true&theme=dark" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junhong0209&theme=dark&layout=compact" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Junhong0209&theme=dark" />
-    <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=Junhong0209 />
     <img src="https://metrics.lecoq.io/Junhong0209?template=classic&repositories=1&languages=1&isocalendar=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&repositories.featured=Junhong0209%2FDiscord_Bot&config.timezone=Asia%2FSeoul" />
 </p>  
 
