@@ -4,7 +4,9 @@
 <!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/Junhong0209/Junhong0209/output/github-user-contribution.svg)
 _generated with [Platane/snk](https://github.com/Platane/snk)_ -->
 ![line](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10)
+  
 </div>
+
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there
 
 * Living in Gyeongju, South Korea.  
