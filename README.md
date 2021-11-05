@@ -48,11 +48,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Junhong0209&show_icons=true&count_private=true&theme=dark" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junhong0209&theme=dark&layout=compact" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Junhong0209&theme=dark" />
-    <img src="https://metrics.lecoq.io/Junhong0209?template=classic&repositories=1&languages=1&isocalendar=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&repositories.featured=Junhong0209%2FDiscord_Bot&config.timezone=Asia%2FSeoul" />
 </p>  
 
-<p align="left">
-
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=50&section=footer)
-               
 </div>
