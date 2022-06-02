@@ -1,45 +1,34 @@
-<div align=center>
-  
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=200&section=header&text=I%20want%20to%20be%20a%20Front-end%20developer.%20👋&fontSize=44&animation=twinkling)
-  
-![line](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10)
-  
-</div>
-
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there
-
-* Living in Gyeongju, South Korea.  
-* I am currently attending [Daegu Software High School](https://ko.wikipedia.org/wiki/%EB%8C%80%EA%B5%AC%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90).
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 안녕하세요 
 
 <br/>
 
 ## 💬 Connect With Me:  
 
-[![Discord](https://img.shields.io/badge/빨강고양이%235278-Discord?logo=discord&style=flat-square&color=7289DA&logoColor=white)](https://discordapp.com/users//)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junh040209@gmail.com)](mailto:junh040209@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/Junhong04/)](https://www.facebook.com/Junhong04/)
-[![instagram ](https://img.shields.io/badge/Instagram-e95950?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/junhong936?)](https://www.instagram.com/junhong936/)
+
+[<img alt="Naver mail" src ="https://img.shields.io/badge/Mail-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=FFFFFF"/>](mailto:junhong0209@naver.com)
+[<img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>](https://www.instagram.com/junhong936/)
 
 <br/><br/>
 
-## 🌱 I'm Currently learning
+## 🛠️ My Skills & Tools
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-
-<br/><br/>
-
-## 🔭 I learned ..
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img alt="React.js" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=FFFFFF"/>
+<img alt="Next.js" src ="https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=next.js&logoColor=FFFFFF"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=FFFFFF"/>
+<img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=FFFFFF"/>
+<img alt="styled-components" src ="https://img.shields.io/badge/styledcompoents-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=FFFFFF"/>
+<img alt="Emotion" src ="https://img.shields.io/badge/EMOTION-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=FFFFFF"/>
+<img alt="Recoil" src ="https://img.shields.io/badge/Recoil-3578E5.svg?&style=for-the-badge&logo=React&logoColor=FFFFFF"/>
+<img alt="Axios" src ="https://img.shields.io/badge/Axios-671DDF.svg?&style=for-the-badge&logo=React&logoColor=FFFFFF"/>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+<img alt="Django" src ="https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=FFFFFF"/>
+<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=FFFFFF"/>
+<img alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=FFFFFF"/>
+<img alt="HTML5" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
+<img alt="CSS3" src ="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
+<img alt="SCSS/SASS" src ="https://img.shields.io/badge/SCSS/SASS-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=FFFFFF"/>
+<img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=FFFFFF"/>
+<img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=FFFFFF"/>
 
 <br/><br/>
 
